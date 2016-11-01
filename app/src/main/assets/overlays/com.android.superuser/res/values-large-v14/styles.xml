@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="RequestThemeLight" parent="@*android:style/Theme.Holo.Dialog">
+        <item name="bottomButtonBar">@*android:color/background_dark</item>
+        <item name="bottomButtonBarText">@*android:color/white</item>
+    </style>
+
+</resources>

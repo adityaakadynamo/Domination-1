@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_blue_bright">@*android:color/accent_material_dark</color>
+    <color name="holo_blue_dark">@*android:color/accent_material_dark</color>
+    <color name="holo_blue_light">@*android:color/background_dark</color>
+    <color name="holo_red_dark">@*android:color/accent_material_dark</color>
+    <color name="holo_red_light">@*android:color/accent_material_dark</color>
+    <color name="list_separator">#ffaaaaaa</color>
+    <color name="material_blue_grey_900">#ff111111</color>
+    <color name="material_blue_grey_950">#ff000000</color>
+    <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
+    <color name="material_grey_300">@*android:color/background_dark</color>
+    <color name="material_grey_50">@*android:color/background_dark</color>
+    <color name="material_grey_850">@*android:color/background_dark</color>
+</resources>

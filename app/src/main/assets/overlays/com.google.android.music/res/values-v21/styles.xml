@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PlayDrawerSelectedText" parent="@style/PlayDrawerBaseText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">#ff555555</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">48.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">32.0dip</item>
+    </style>
+    <style name="MusicSettingsActivityTheme" parent="@*android:style/Theme.Material">
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="android:textColorSecondary">#ffdddddd</item>
+        <item name="android:windowBackground">@*android:color/background_dark</item>
+        <item name="android:actionBarDivider">@null</item>
+        <item name="android:colorPrimary">#ffe64a19</item>
+        <item name="android:colorPrimaryDark">#ffbf360c</item>
+        <item name="android:colorAccent">#ffe64a19</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@*android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorLink">@*android:color/accent_material_dark</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:textColorLinkInverse">@*android:color/accent_material_dark</item>
+    </style>
+</resources>
